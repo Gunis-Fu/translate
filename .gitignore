@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+
+# PyInstaller 打包产物
+build/
+dist/
+
+# TTS 音频缓存
+tts_cache/
+
+# 翻译历史记录（含用户文本）
+translate_history.json
+
+# IDE
+.vscode/
+.idea/
